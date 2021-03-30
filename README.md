@@ -1,4 +1,5 @@
 ﻿# Awesome Rusted AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img src=https://github.com/tinyms-ai/tinyms/raw/main/docs/pic/rustedai-logo.png width="200" height="100">
 
 ## Table of Contents
 
