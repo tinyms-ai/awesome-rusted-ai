@@ -12,6 +12,8 @@
 1. [TVM Rust Binding](https://github.com/apache/tvm/tree/main/rust)
 2. [Tensorflow Rust Binding](https://github.com/tensorflow/rust)
 3. [MindSpore WASM Backend Experiment](https://github.com/leonwanghui/ms-backend-wasm)
+4. [Machine Learning Related Crates](https://lib.rs/science/ml)
+
  
 -----
 ### Contributing
