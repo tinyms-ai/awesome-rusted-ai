@@ -14,6 +14,8 @@
 2. [Tensorflow Rust Binding](https://github.com/tensorflow/rust)
 3. [MindSpore WASM Backend Experiment](https://github.com/leonwanghui/ms-backend-wasm)
 4. [Machine Learning Related Crates](https://lib.rs/science/ml)
+5. [TensorBoard Rust Data Loading](https://github.com/tensorflow/tensorboard/blob/master/tensorboard/data/server/Cargo.toml)
+6. [Photon: A WebAssembly Image Processing Library](https://silvia-odwyer.github.io/photon/)
 
  
 -----
@@ -24,4 +26,3 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
